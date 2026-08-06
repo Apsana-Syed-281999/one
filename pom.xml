@@ -10,7 +10,7 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://98.81.246.90:8081/repository/Nexus-First/</sonar.host.url>
+		<sonar.host.url>http://34.230.57.128:8081/repository/Git_to_Nexus/</sonar.host.url>
 
 	</properties>
 	<dependencies>
