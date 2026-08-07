@@ -69,8 +69,6 @@
             <version>3.3.2</version>
         </plugin>
     </plugins>
-</build>
-	<build>
   <plugins>
     <plugin>
       <groupId>org.sonarsource.scanner.maven</groupId>
